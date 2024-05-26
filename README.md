@@ -14,7 +14,7 @@ npx create-expo-app@latest -t
 
 ### ChatGPT code review
 
-A code review github action workflow powered by ChatGPT
+A code review github action workflow powered by ChatGPT. It provides automated code reviews for pull requests.
 
 ### Developer tools
 
